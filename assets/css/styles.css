@@ -94,7 +94,7 @@ body {
 }
 
 .brand-logo {
-  height: clamp(42px, 6vw, 70px);
+  height: clamp(100px, 28vw, 70px);
   width: auto;
   display: block;
 }
@@ -911,10 +911,14 @@ body.bo-open .blood-overlay {
 }
 
 .footer-icon {
-  width: 0.95rem;
-  height: 0.95rem;
+  width: 5rem;
+  height: 5rem;
   object-fit: contain;
   flex: 0 0 auto;
+}
+
+.footer-text {
+  font-size: xx-large;
 }
 
 .reveal {

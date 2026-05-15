@@ -26,7 +26,7 @@ export function renderFooter(site) {
   footer.innerHTML = `
     <div class="site-footer">
       <div class="site-footer-content">
-        <p>${site.footerText}</p>
+        <p class="footer-text">${site.footerText}</p>
         <img class="footer-icon" src="./data/footer.png" alt="" loading="lazy" decoding="async" aria-hidden="true" />
       </div>
     </div>
