@@ -6,15 +6,46 @@
       "label": "Fanart",
       "items": [
         {
-          "title": "Moonlit Reunion",
-          "medium": "Digital Painting",
-          "image": "data/123.png",
-          "shortLabel": "FAN-01"
+          "title": "シェラ姉ハピバ",
+          "medium": "csp",
+          "image": "data/trails-series/nesan.jpg",
+          "shortLabel": "シェラ姉ハピバ"
         },
         {
-          "title": "Azure Duel",
-          "medium": "Ink + Color",
-          "shortLabel": "FAN-02"
+          "title": "cheer leader",
+          "medium": "csp",
+          "image": "data/trails-series/cheer leader.jpg",
+          "shortLabel": "cheer leader"
+        },
+        {
+          "title": "Tida&Renne",
+          "medium": "csp",
+          "image": "data/trails-series/lolis.jpg",
+          "shortLabel": "Tida&Renne"
+        },
+        {
+          "title": "MaidsDay2026",
+          "medium": "csp",
+          "image": "data/trails-series/maid.jpg",
+          "shortLabel": "MaidsDay2026"
+        },
+        {
+          "title": "ninja",
+          "medium": "csp",
+          "image": "data/trails-series/ninja.jpg",
+          "shortLabel": "ninja"
+        },
+        {
+          "title": "hitujin pajyama",
+          "medium": "csp",
+          "image": "data/trails-series/pajyama.jpg",
+          "shortLabel": "hitujin pajyama"
+        },
+        {
+          "title": "リィンハピバ",
+          "medium": "csp",
+          "image": "data/trails-series/rean3.jpg",
+          "shortLabel": "リィンハピバ"
         }
       ]
     },
@@ -23,25 +54,28 @@
       "label": "Original",
       "items": [
         {
-          "title": "Valley Guardian",
-          "medium": "Concept Art",
-          "shortLabel": "ORG-01"
+          "title": "たらこ1",
+          "medium": "csp",
+          "image": "data/original/trk.jpg",
+          "shortLabel": "たらこ1"
         },
         {
-          "title": "Rain Market",
-          "medium": "Environment Study",
-          "shortLabel": "ORG-02"
-        }
-      ]
-    },
-    {
-      "key": "sketches",
-      "label": "Sketches",
-      "items": [
+          "title": "たらこ2",
+          "medium": "csp",
+          "image": "data/original/tarako4.jpg",
+          "shortLabel": "たらこ2"
+        },
         {
-          "title": "Gesture Sheet 014",
-          "medium": "Pencil Scan",
-          "shortLabel": "SK-14"
+          "title": "たらこ3",
+          "medium": "csp",
+          "image": "data/original/tarako6.jpg",
+          "shortLabel": "たらこ3"
+        },
+        {
+          "title": "たらこ4",
+          "medium": "csp",
+          "image": "data/original/tarako7.jpg",
+          "shortLabel": "たらこ4"
         }
       ]
     }

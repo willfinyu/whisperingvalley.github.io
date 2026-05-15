@@ -1,19 +1,19 @@
 {
   "items": [
     {
-      "title": "Portfolio Mirror",
-      "url": "https://example.com",
-      "description": "Alternative portfolio view with project breakdowns."
+      "title": "X",
+      "url": "https://x.com/willfinyu",
+      "description": "神鱈@willfinyu."
     },
     {
-      "title": "Sketch Archive",
-      "url": "https://example.com",
-      "description": "Process shots, work-in-progress clips, and studies."
+      "title": "Pixiv",
+      "url": "https://www.pixiv.net/users/882173",
+      "description": "神鱈@willfin"
     },
     {
-      "title": "Contact Form",
-      "url": "https://example.com",
-      "description": "For commissions and collaboration requests."
+      "title": "Weibo",
+      "url": "https://weibo.com/u/1852496123",
+      "description": "@神鳕_鳕鱼子在库全切"
     }
   ]
 }

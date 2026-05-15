@@ -27,7 +27,7 @@ export function renderFooter(site) {
     <div class="site-footer">
       <div class="site-footer-content">
         <p>${site.footerText}</p>
-        <img class="footer-icon" src="./data/link1.png" alt="" loading="lazy" decoding="async" aria-hidden="true" />
+        <img class="footer-icon" src="./data/footer.png" alt="" loading="lazy" decoding="async" aria-hidden="true" />
       </div>
     </div>
   `;
