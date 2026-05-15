@@ -4,14 +4,13 @@
   "navigation": [
     { "key": "home", "label": "Home", "href": "./index.html" },
     { "key": "gallery", "label": "Gallery", "href": "./gallery.html" },
-    // { "key": "blood", "label": "Blood", "href": "./blood.html" },
     { "key": "blog", "label": "Blog", "href": "./blog.html" },
     { "key": "links", "label": "Links", "href": "./links.html" }
   ],
   "intro": {
     "name": "神鱈",
     "tagline": "Illustrator",
-    "bio": "雑食。可愛い癒し系からエロいえぐい系まで超絶雑食。BL/BG/GL混雑のでご注意くださいｗ",
-    "currentFocus": "コミュ障社畜_(:з」∠)_ゲームとマンガと小説と諸々を糧に楽しくやっています/趣味雑多で絵雑多/キラル全般(トワ多め)/falcom全般(軌跡多め)/たまに花子くん/ほぼ単一人物しか描けないけどBL-BG-GL混雑のでご注意くださいm(_ _)m/ほか雑多話し."
+    "bio": "雑食。可愛い癒し系からエロいえぐい系まで超絶雑食。BL/BG/GL混雑のでご注意ください",
+    "currentFocus": "コミュ障社畜_(:з」∠)_ ゲームとマンガと小説と諸々を糧に楽しくやっています。趣味雑多で絵雑多 - キラル全般(トワ多め) - falcom全般(軌跡多め) - たまに花子くん。ほぼ単一人物しか描けないけどBL-BG-GL混雑のでご注意くださいm(_ _)m"
   }
 }
